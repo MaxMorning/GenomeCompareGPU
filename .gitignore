@@ -1,0 +1,9 @@
+compare.exe
+compare.lib
+compare.exp
+
+*.txt
+*.data
+*.fasta
+
+.idea
